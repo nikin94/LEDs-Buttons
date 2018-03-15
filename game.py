@@ -16,7 +16,7 @@ colors = ['red', 'orange', 'gold', 'green', 'cyan' ,'blue', 'violet']
 
 t = 5 #times to repeat
 pause = 0.5
-roundTo = 3
+roundTo = 1
 labelAttemptsArray = []
 ovalClicks = []
 ovals = []
